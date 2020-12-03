@@ -11,7 +11,6 @@ SpringBoot framework used, the results were not sufficient.
 I've always tried to find a way so maybe RUST will be the way. As a source I will use 
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) and 
 [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/). 
-I will start using Cargo only when a simple `rustc` will not be enough.
 
 ## install
 [The Rust installation page](https://www.rust-lang.org/learn/get-started)
@@ -24,5 +23,5 @@ I will start using Cargo only when a simple `rustc` will not be enough.
 rustup doc --std
 ```
 
-## language
+## content
 - [basics](./basics/README.md)

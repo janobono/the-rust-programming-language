@@ -11,6 +11,15 @@
 - [enums and pattern matching](./enums-and-pattern-matching.rs)
 - [error handling](./error-handling.rs)
 
-
 **summary**
 - [Convert temperatures between Fahrenheit and Celsius](./fahrenheit-and-celsius.rs)
+
+**build**
+```
+rustc hello-rust.rs
+```
+
+**run**
+```
+./hello-rust
+```
