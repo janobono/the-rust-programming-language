@@ -3,3 +3,10 @@ variables-and-mutability
 data-types
 functions
 control-flow
+ownership
+references-and-borrowing
+slice
+enums-and-pattern-matching
+error-handling
+
+fahrenheit-and-celsius

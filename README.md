@@ -19,5 +19,10 @@ I will start using Cargo only when a simple `rustc` will not be enough.
 - Modify `.bashrc` add `source ~/.cargo/env`
 - To test call for example `cargo --version`
 
+## doc
+```
+rustup doc --std
+```
+
 ## language
 - [basics](./basics/README.md)
