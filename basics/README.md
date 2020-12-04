@@ -13,6 +13,7 @@
 
 **summary**
 - [Convert temperatures between Fahrenheit and Celsius](./fahrenheit-and-celsius.rs)
+- [Generate the nth Fibonacci number](./fibonacci.rs)
 
 **build**
 ```
