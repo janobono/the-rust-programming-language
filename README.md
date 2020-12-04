@@ -25,3 +25,4 @@ rustup doc --std
 
 ## content
 - [basics](./basics/README.md)
+- [data and OOP](./data/README.md)
