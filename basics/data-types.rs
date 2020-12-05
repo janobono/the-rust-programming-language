@@ -58,4 +58,9 @@ fn main() {
     println!("{:?}", a);
     let a = [3; 3];
     println!("{:?}", a);
+
+    // Aliasing
+    type NanoSecond = u64;
+    let a: NanoSecond = 10;
+    println!("NanoSecond {}", a);
 }

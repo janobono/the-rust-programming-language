@@ -10,6 +10,8 @@
 - [the slice type](./slice.rs)  
 - [enums and pattern matching](./enums-and-pattern-matching.rs)
 - [error handling](./error-handling.rs)
+- [cast and parse](./cast-and-parse.rs)
+- [common collections](./common-collections.rs)
 
 **summary**
 - [Convert temperatures between Fahrenheit and Celsius](./fahrenheit-and-celsius.rs)

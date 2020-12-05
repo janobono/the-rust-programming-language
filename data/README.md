@@ -1,5 +1,8 @@
 # data and OOP
 
+- [structs](./structs.rs)
+- []
+
 **summary**
 
 **build**
