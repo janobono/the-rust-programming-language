@@ -1,7 +1,7 @@
 # data and OOP
 
 - [structs](./structs.rs)
-- []
+- [generics](./generics.rs)
 
 **summary**
 
