@@ -1,4 +1,4 @@
-# data and OOP
+# advanced
 
 - [structs](./structs.rs)
 - [generics](./generics.rs)
@@ -7,5 +7,3 @@
 - [iterators](./iterators.rs)
 - [pointers](./pointers.rs)
 - [concurrency](./concurrency.rs)
-
-**summary**
